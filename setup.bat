@@ -3,6 +3,7 @@
 timeout /t 1
 echo 'prapre for install dependcencies'
 
+color 0a
 cls
 echo 1...
 timeout /t 1 /nobreak > NUL
