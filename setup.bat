@@ -1,7 +1,7 @@
 @echo off
 
 timeout /t 1
-echo 'prapre for install dependcencies'
+echo 'prepare for install dependcencies.'
 
 color 0a
 cls
